@@ -1,0 +1,96 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.mbody {
+  width: 600px;
+  height: 80vh;
+  background: rgb(211, 230, 230);
+}
+p {
+  font-weight: bold;
+}
+.header,
+.footer {
+  padding: 1.5rem 0 1.5rem 0;
+  background-color: rgb(128, 164, 165);
+}
+.header p,
+.footer p {
+  /* font-weight: 500; */
+  text-align: center;
+}
+.main {
+  background-color: rgb(211, 230, 230);
+  margin: 20px 20px 20px 20px;
+}
+.container1 {
+  display: flex;
+  /* height: 510px; */
+}
+.container2 {
+  width: 40%;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+.intro {
+  height: 200px;
+  width: 60%;
+  background-color: rgb(128, 164, 165);
+}
+.intro p {
+  text-align: center;
+  padding-top: 90px;
+}
+.hero {
+  /* width: 45%; */
+  height: 140px;
+  background-color: rgb(128, 164, 165);
+}
+.hero p {
+  text-align: center;
+  padding-top: 60px;
+}
+.call1 {
+  height: 40px;
+  margin-top: 20px;
+  /* padding-bottom: 30px; */
+  background-color: rgb(238, 238, 89);
+}
+.call1 p {
+  text-align: center;
+  padding-top: 10px;
+}
+.features {
+  height: 100px;
+  width: 100%;
+  background-color: rgb(128, 164, 165);
+  margin-bottom: 20px;
+}
+.features p {
+  text-align: center;
+  padding-top: 40px;
+}
+.container3 {
+  height: 60px;
+  display: flex;
+}
+.more {
+  background-color: rgb(128, 164, 165);
+  margin-right: 20px;
+  width: 65%;
+}
+.more p {
+  text-align: center;
+  padding-top: 20px;
+}
+.call2 {
+  background-color: rgb(238, 238, 89);
+  /* margin-right: 20px; */
+  width: 35%;
+}
+.call2 p {
+  text-align: center;
+  padding-top: 20px;
+}

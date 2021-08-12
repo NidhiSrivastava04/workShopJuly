@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.content{
+    width: 100%;
+    height: fit-content;
+}
+header{
+    height: 140px;
+    background-color: #ffc9ff;
+}
+
+section{
+    height: 58vh;
+    display: flex;
+}
+.right{
+    width: 30%;
+    background-color: #ff99ff;
+}
+
+.main{
+    width: 70%;
+}
+
+footer{
+    height: 140px;
+    background-color: #cb87f5;
+}
+p{
+    text-align: center;
+    font-size: 19px;
+    font-weight: 500;
+}
